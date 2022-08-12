@@ -19,10 +19,10 @@ In this project, I will cover and explore the following:
     - In which year did Chanel perform better ?
     - Whats average duration of videos 
 
-    - check correlation
-        - Dose video durition matter for views ?
-        - Does title length matter for views ? 
-        - Does likesCount and commentsCount correlated with views ?  
+    - check correlation :
+    - Dose video durition matter for views ?
+    - Does title length matter for views ? 
+    - Does likesCount and commentsCount correlated with views ?  
     
 - ### Explore text data using NLP techniques
         - Most written in the comments for each channel
