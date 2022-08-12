@@ -31,6 +31,9 @@ In this project, I will cover and explore the following:
      
 ## Data Visualization And Exploratory analysis
 
+![alt text](https://github.com/meysamraz/youtube-api-eda/blob/master/src/corr.png)
+![alt text](https://github.com/meysamraz/youtube-api-eda/blob/master/src/sentiment_analysis.png)
+![alt text](https://github.com/meysamraz/youtube-api-eda/blob/master/src/views.png)
 
      
  
