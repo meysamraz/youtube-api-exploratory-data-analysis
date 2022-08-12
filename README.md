@@ -25,9 +25,9 @@ In this project, I will cover and explore the following:
     - Does likesCount and commentsCount correlated with views ?  
     
 - ### Explore text data using NLP techniques
-        - Most written in the comments for each channel
-        - Most words used in titles
-        - Sentiment analysis for the comments of each channel
+    - Most written in the comments for each channel
+    - Most words used in titles
+    - Sentiment analysis for the comments of each channel
      
 ## Data Visualization And Exploratory analysis
 
