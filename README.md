@@ -36,5 +36,12 @@ In this project, I will cover and explore the following:
 ![alt text](https://github.com/meysamraz/youtube-api-eda/blob/master/src/views.png)
 
      
- 
- 
+# Libraries and packages :
+- [google-api-python-client](https://pypi.org/project/google-api-python-client/)
+- [pandas](https://pandas.pydata.org/)
+- [numpy](https://numpy.org/)
+- [nltk](https://www.nltk.org/)
+- [matplotlib](https://matplotlib.org/)
+- [seaborn](https://seaborn.pydata.org/)
+- [wordcloud](https://amueller.github.io/word_cloud/)
+- [termcolor](https://pypi.org/project/termcolor/)
